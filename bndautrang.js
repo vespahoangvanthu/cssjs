@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2tjZ5ys' target='_blank'><img src='http://vespahcm.net/wp-content/uploads/2017/06/Promotion-thang-6-Primavera.jpg' width='500px'/><br/>Trả góp Vespa Chính hãng</a>. Liên hệ Mr Ngọc Chung 0936218099. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2tjZ5ys' target='_blank'><img src='http://vespahcm.net/wp-content/uploads/2017/06/Liberty-Promo-T06.jpg' width='500px'/><br/>Trả góp Vespa Chính hãng</a>. Liên hệ Mr Ngọc Chung 0936218099. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
