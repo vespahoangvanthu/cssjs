@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>BẠN MUỐN COPY BÀI VIẾT THÌ VÀO ĐÂY : <a href='http://vespahcm.net'>http://vespahcm.net"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>BẠN MUỐN COPY Ư - ĐÂU CÓ DỄ : <a href='http://vespahcm.net'>http://vespahcm.net"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
